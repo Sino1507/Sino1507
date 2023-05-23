@@ -48,4 +48,5 @@ Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots �
 -->
 
 Ich habe noch ein paar Ziele, die ich in Zukunft erreichen möchte. Unter anderem möchte ich noch mehr Erfahrungen in der Programmierung sammeln und noch mehr Projekte auf [GitHub](https://github.com/Sino1507) veröffentlichen. Ich möchte auch noch mehr Skills in der Programmierung sammeln und noch mehr Sprachen lernen.
-    
+<!---->
+__Meine Social Media Accounts:__
