@@ -8,5 +8,4 @@
         -   [x]  Ein paar Informationen über meine Ziele
 -->
 
-# Hi, ich bin [Silas](
-) 👋
+# Hi, ich bin [Silas]() 👋
