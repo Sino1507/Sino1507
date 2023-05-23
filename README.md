@@ -17,6 +17,7 @@
 -->
 
 __Das bin ich:__
+<!---->
 Ich bin ein 14 Jahre alter Schüler aus Deutschland, der sich für die Programmierung interessiert. Ich habe schon ein paar Erfahrungen mit der Programmierung gesammelt, aber ich bin noch lange nicht am Ende. Ich möchte mich in Zukunft noch weiter mit der Programmierung beschäftigen und noch mehr Erfahrungen sammeln.
 
 <!--
@@ -24,6 +25,7 @@ Ich bin ein 14 Jahre alter Schüler aus Deutschland, der sich für die Programmi
 -->
 
 __Meine Projekte:__
+<!---->
 Ich habe schon ein paar Projekte auf [GitHub](https://github.com/Sino1507) veröffentlicht, die du dir gerne anschauen kannst.
 
 <!--
@@ -33,6 +35,7 @@ Ich habe schon ein paar Projekte auf [GitHub](https://github.com/Sino1507) verö
 -->
 
 __Meine Skills:__
+<!---->
 Ich habe schon ein paar Skills in der Programmierung gesammelt. Unter anderem behersche ich:
 <!-- Aufzählung -->
 - JavaScript 
@@ -51,5 +54,6 @@ Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots �
 -->
 
 __Meine Ziele 💭:__
+<!---->
 Ich habe noch ein paar Ziele, die ich in Zukunft erreichen möchte. Unter anderem möchte ich noch mehr Erfahrungen in der Programmierung sammeln und noch mehr Projekte auf [GitHub](https://github.com/Sino1507) veröffentlichen. Ich möchte auch noch mehr Skills in der Programmierung sammeln und noch mehr Sprachen lernen.
 
