@@ -60,4 +60,4 @@ Ich habe noch ein paar Ziele, die ich in Zukunft erreichen möchte. Unter andere
 <!---->
 __Meine Kontakte:__
 <!-- Aufzählung -->
-- [Discord](https://discord.com/) - Sino#1835
+- [Discord](https://discord.com/) - **Sino#1835**
