@@ -30,7 +30,15 @@ Ich habe schon ein paar Projekte auf [GitHub](https://github.com/Sino1507) verö
     Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots, der Entwicklung von Webseiten und der Entwicklung von Game Mods gesammelt.
 -->
 
-Ich habe schon ein paar Skills in der Programmierung gesammelt. Unter anderem behersche ich JavaScript, HTML, CSS, Python und ein bisschen C#. Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots, der Entwicklung von Webseiten und der Entwicklung von Game Mods gesammelt.
+Ich habe schon ein paar Skills in der Programmierung gesammelt. Unter anderem behersche ich:
+<!-- Aufzählung -->
+- JavaScript 
+- HTML
+- CSS
+- Python
+- Lua
+- C#
+Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots 🤖, der Entwicklung von Webseiten 🌐 und der Entwicklung von Game Mods ⚔️ gesammelt.
 
 <!--
     Ich habe noch ein paar Ziele, die ich in Zukunft erreichen möchte.
