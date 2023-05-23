@@ -38,6 +38,7 @@ Ich habe schon ein paar Skills in der Programmierung gesammelt. Unter anderem be
 - Python
 - Lua
 - C#
+<!-- Ende -->
 Ich habe auch schon ein paar Erfahrungen mit der Entwicklung von Discord Bots 🤖, der Entwicklung von Webseiten 🌐 und der Entwicklung von Game Mods ⚔️ gesammelt.
 
 <!--
