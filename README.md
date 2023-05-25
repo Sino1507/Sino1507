@@ -63,4 +63,5 @@ Ich habe noch ein paar Ziele, die ich in Zukunft erreichen möchte. Unter andere
 - [Discord](https://discord.com/) - Sino#1835
 
 **Meine Stats 📜:**
+<!---->
 <img align="left" alt="Sino's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sino1507&show_icons=true&theme=tokyonight" />
