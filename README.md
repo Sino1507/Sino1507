@@ -18,7 +18,7 @@
 
 **It's me 😄:**
 <!---->
-I am a 14 year old student from Germany who is interested in programming. I've already gained some experience with programming, but I'm far from finished. I would like to get more involved with programming in the future and gain more experience.
+I am a 15 year old student from Germany who is interested in programming. I've already gained some experience with programming, but I'm far from finished. I would like to get more involved with programming in the future and gain more experience.
 
 <!--
     Ich habe schon ein paar Projekte auf [GitHub](https://github.com/Sino1507) veröffentlicht, die du dir gerne anschauen kannst.
