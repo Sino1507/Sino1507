@@ -44,7 +44,7 @@ I've already gained a few skills in programming. Among other things, I master:
 - CSS
 - Python
 - Lua
-- C#
+- C++
 <!-- Ende -->
 I've also had some experience developing Discord bots 🤖, developing websites 🌐, and developing game mods ⚔️.
 
