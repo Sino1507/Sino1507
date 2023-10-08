@@ -61,7 +61,7 @@ I still have a few goals that I want to achieve in the future. Among other thing
 <!---->
 **My contacts 📪:**
 <!-- Aufzählung -->
-- [Discord](https://discord.com/) - Sino#1835
+- [Discord](https://discord.com/) - sinoxde
 
 **My stats 📜:**
 <!---->
