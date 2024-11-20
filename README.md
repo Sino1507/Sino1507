@@ -1,4 +1,4 @@
-# Hi, I'm [Silas](https://github.com/Sino1507) 👋
+# Hi, I'm [Sino](https://github.com/Sino1507) 👋
 
 
 **My stats 📜:**
